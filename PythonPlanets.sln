@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonPlanets", "PythonPlanets\PythonPlanets.pyproj", "{C7B13E39-DFDA-4129-8FCA-08004BE7577C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B13E39-DFDA-4129-8FCA-08004BE7577C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B13E39-DFDA-4129-8FCA-08004BE7577C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A4F722-ACEC-4FCC-973C-84C43775E851}
+	EndGlobalSection
+EndGlobal
